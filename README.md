@@ -46,7 +46,6 @@ Ensure you have the following installed:
 4. Access the API:
    ```
    http://localhost:9000
-
    Test Users
     - **Username**: user@user.com
     - **Password**: 123456
