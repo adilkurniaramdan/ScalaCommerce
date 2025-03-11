@@ -44,7 +44,7 @@ Ensure you have the following installed:
    sbt run
    ```
 4. Access the API:
-   ```
+      ```
    http://localhost:9000
    Test Users
     - **Username**: user@user.com
@@ -53,11 +53,12 @@ Ensure you have the following installed:
     Admin
     - **Username**: admin@admin.com
     - **Password**: 123456
-  ```
+     ```
 
 ## Integration Test
 ```
 /test/functionalspec/OrderControllerFinishedSpec
+
 ```
 
 
