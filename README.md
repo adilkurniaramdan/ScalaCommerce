@@ -1,6 +1,6 @@
-# ActoCommerce
+# ScalaCommerce
 
-ActoCommerce is a **scalable, event-driven e-commerce platform** built using **Scala**, **Play Framework**, and **Akka Actor Model**. Designed for high concurrency and reactive architecture, ActoCommerce leverages **event sourcing** and **CQRS** to provide a robust online shopping experience.
+ScalaCommerce is a **scalable, event-driven e-commerce platform** built using **Scala**, **Play Framework**, and **Akka Actor Model**. Designed for high concurrency and reactive architecture, ScalaCommerce leverages **event sourcing** and **CQRS** to provide a robust online shopping experience.
 
 ## Features
 - **Play Framework**: Leverages Play for reactive web application development.
